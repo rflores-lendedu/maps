@@ -10,7 +10,7 @@ Simply add the `[state_map]` shortcode on any page/post to create a beautifully 
 
 #### Step-by-step
 a. Create a full html file in web storm
-1. Open [this Example State HTML file](../example-state.html)
+1. Open [this Example State HTML file](/example-state.html)
     1. copy all information into your full html file in web storm 
 2. Open your excel file
 3. copy state information and paste into tableizer
