@@ -9,7 +9,7 @@ Simply add the `[state_map]` shortcode on any page/post to create a beautifully 
 ## How-To
 
 #### Step-by-step
-a. Create a full html file in web storm
+a. Create a full html file in web storm - blank will work for now... 
 1. Open [this Example State HTML file](/example-state.html)
     1. copy all information into your full html file in web storm 
 2. Open your excel file
@@ -31,7 +31,8 @@ a. Create a full html file in web storm
         <strong>Proportion with Debt:</strong> 51%
         </span></div>`
         ensure that the state abbreviation is included: ie. `<span id="tooltip-span-AL">...`
- 9. Slack Ray if you need anything
+ 9. here is a [full example file](/example-full-file.html)
+ 10. Slack Ray if you need anything
  
 ## Authors
 
