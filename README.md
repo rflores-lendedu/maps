@@ -17,7 +17,7 @@ a. Create a full html file in web storm
 4. Copy from tableizer `<tbody>....</tbody>` -> that's all, nothing else!
 5. Paste `<tbody>...` info into your new full html file in web storm
     1. into the same `<tbody` that is currently there
-6. Open [this Example State Tooltip Html File](../example-state-tooltip.html)
+6. Open [this Example State Tooltip Html File](/example-state-tooltip.html)
 7. Add your state information for the tooltip, and copy/paste that into your full html file 
 8. Now you have all needed information 
     1. there are a couple changes needed at this point
